@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* font-family: inter_semi_bold, fallaback-inter_semi_bold, Arial, sans-serif; */
+    font-weight: 500;
+    border:border-box;
+}
+html{
+    /* background-color: rgb(241, 237, 237); */
+    background-color: #e7e4e4;
+   font-family:  inter_regular, fallback-inter_regular, Arial, sans-serif;
+}
+header{
+    width: 100vw;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* Head1 Start */
+
+.head1{
+    background-color: white;
+    height: 10vh;
+    display: flex;
+   
+}
+.flipkartLogo{
+    padding-top: 3vh;
+    padding-left: 4vw;
+}
+.searchBar{
+    height: 6vh;
+    width: 45vw;
+    position: relative;
+    bottom: 15px;
+    font-size: medium;
+    font-weight: 500;
+    border: none;
+    background-color: rgb(239, 240, 255);
+    border: transparent;
+}
+.login{
+    padding-top: 3vh;
+    padding-left: 3vw;
+}
+.login span{
+    position: relative;
+    left: 4px;
+    bottom: 1vh;
+    right: 10px;
+}
+#img1{
+  left: 7px;
+  position: relative;
+  bottom: 5px;
+  width:12px;
+  height:12px; 
+}
+.cart{
+    padding-top: 3vh;
+    padding-left: 3vw;
+}
+.cart span{
+    position: relative;
+    bottom:1vh ;
+}
+.seller{
+    padding-top: 3vh;
+    padding-left: 3vw;
+}
+.seller span{
+    position: relative;
+    bottom:1vh ;
+}
+.threeDot{
+    padding-top: 3vh;
+    padding-left: 3vw;
+}
