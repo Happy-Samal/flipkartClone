@@ -1,2 +1,10 @@
 # flipkartClone
-My Flipkart Clone
+
+## Overview
+
+This is a clone of flipkart using HTML and CSS .
+
+## Technologies Used
+- **Frontend**: HTML and CSS 
+
+
